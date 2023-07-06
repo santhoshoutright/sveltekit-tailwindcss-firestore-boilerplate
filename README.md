@@ -1,2 +1,2 @@
-# sveltekit-tailwindcss-firestore-boilerplate
+# Sveltekit-TailwindCSS-Firestore-Boilerplate
 SvelteKit + TailwindCSS + Firestore and Firebase boilerplate template
